@@ -5,5 +5,26 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #f7a4d8;
-    background-color: #ffff91;
+    background-color: #d391ff;
   }
+  h1 {
+    color: orange;
+    font-size: 200% ]
+
+  }
+p {
+ 
+  font-family: "roboto";
+  text-indent: 20px;
+  margin-left: 10px;
+
+}
+#content {
+background-color: aliceblue;
+width: 500px ;
+min-height: 300px ;
+padding: 10px;
+border:solid 1px #d391ff
+font-size: 20px 
+
+}
