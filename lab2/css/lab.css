@@ -1,7 +1,7 @@
 /* Here we can set styles for this lab page that we don't want to effect others pages */
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
-.minor-section {
+minor-section {
   padding: 10px;
   margin-bottom: 10px;
   border: solid 1px #f7a4d8;
@@ -9,20 +9,19 @@
 }
 
 h1 {
-  color: rgb(120,28,124);
-  font-size: 200%;
+  color: rgb(120, 28, 124);
+  font-size: 250%;
 }
 
-p {	
-  font-family:"roboto";
-  text-indent :20 px ; 
-  margin-left :10 px ;	
+p {
+  font-family: "times new roman";
+  text-indent: 30px;
+  margin-left: 10px;
 }
-
-#content{
-  background-color :aliceblue ; 
-  width :1000 px ; 
+#content {
+  background-color : aliceblue ;
+  width :1000 px ;
   min-height :300 px ;
   padding :10 px ;
   border :solid l0 px #d391 ff font-size 20 px
-}
+} 
