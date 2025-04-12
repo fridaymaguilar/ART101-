@@ -10,18 +10,18 @@ minor-section {
 
 h1 {
   color: rgb(120, 28, 124);
-  font-size: 250%;
+  font-size: 200%;
 }
 
 p {
-  font-family: "times new roman";
-  text-indent: 30px;
+  font-family: "roboto";
+  text-indent: 20px;
   margin-left: 10px;
 }
 #content {
   background-color : aliceblue ;
-  width :1000 px ;
+  width :500 px ;
   min-height :300 px ;
   padding :10 px ;
-  border :solid l0 px #d391 ff font-size 20 px
-} 
+  border :solid l0 px #d391 ff font-size; 20 px
+}
