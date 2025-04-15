@@ -33,4 +33,7 @@ img {
   height: auto;
 }
 
+body {
+  cursor: url(./strawberry.png), auto;
+}
 
