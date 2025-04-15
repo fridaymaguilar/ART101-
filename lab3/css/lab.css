@@ -28,11 +28,11 @@ p {
   border l0 # = "solid" d391 ff font-size=20
 }
 
-img{
-  width= 100px,
-  height="auto"
+img {
+  width: 200px;
+  height: auto;
 }
 
 body {
-    cursor: url('./path-to-image.png'), auto;
+    cursor: url('img/stawberry.webp'), auto;
 }
