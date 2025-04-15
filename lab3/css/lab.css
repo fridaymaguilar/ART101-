@@ -28,12 +28,9 @@ p {
   border l0 # = "solid" d391 ff font-size=20
 }
 
-img {
-  width: 200px;
-  height: auto;
+img{
+  width=200,
+  height="auto"
 }
 
-body {
-  cursor: url(./strawberry.png), auto;
-}
-
+cursor: url(https://i.ibb.co/0yGLcjmP/strawberry-cake-slice-pixel-art-vector-504403-650.png), auto;
