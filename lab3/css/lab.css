@@ -11,13 +11,13 @@
 
 h1 {
   color: rgb(120,28,124);
-  font-size: 200%;
+  font-size: 100%;
 }
 
 p {	
   font-family:"roboto";
   text-indent :10 px ; 
-  margin-left :10 px ;	
+  margin-left :5 px ;	
 }
 
 #content{
