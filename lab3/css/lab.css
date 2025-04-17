@@ -29,8 +29,8 @@ p {
 }
 
 html {
-  cursor: url(img/"fix.png"), auto;
-} 
+  cursor: url("img/fix.png"), auto;
+} xs
 
 img {
   transform: translate(5px, 5px);
