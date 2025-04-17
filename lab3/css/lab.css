@@ -16,7 +16,7 @@ h1 {
 
 p {	
   font-family:"roboto";
-  text-indent :20 px ; 
+  text-indent :10 px ; 
   margin-left :10 px ;	
 }
 
@@ -32,6 +32,10 @@ img {
   width: 200px;
   height: auto;
 }
-
-cursor:url('https://png.pngtree.com/png-vector/20220820/ourmid/pngtree-pixel-strawberry-icon-png-image_6117335.png');
+body {
+  cursor: url('cursor-image.png'), auto;
 }
+
+img {
+  transform: translate(100px, 50px);
+} 
