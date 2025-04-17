@@ -29,7 +29,7 @@ p {
 }
 
 html {
-  cursor: url("fix.png"), auto;
+  cursor: url(img/"fix.png"), auto;
 } 
 
 img {
